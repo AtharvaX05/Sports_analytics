@@ -79,7 +79,7 @@ The dashboard displays:
 
 ## 👤 Author
 
-**Ojas Panse**  
-mail: ojaspanse200@gmail.com
-LinkedIN: https://www.linkedin.com/in/ojas-panse-2a8a80286/
+**Atharva Yeole**  
+mail: yeoleatharva2005@gmail.com
+LinkedIN: http://www.linkedin.com/in/atharva-yeole-79b523285
 
